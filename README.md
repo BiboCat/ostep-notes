@@ -8,12 +8,14 @@
 
 ## 目录
 
-| 章   | 主题                                         | 笔记                                                            |
-| --- | ------------------------------------------ | ------------------------------------------------------------- |
-| 4   | 进程抽象 The Abstraction: The Process          | [process.md](4-Processes/process.md)                          |
-| 5   | 进程 API Interlude: Process API              | [ProcessesAPI.md](5-ProcessesAPI/ProcessesAPI.md)             |
-| 6   | 受限直接执行 Mechanism: Limited Direct Execution | [Direct-Execution.md](6-Direct-Execution/Direct-Execution.md) |
-| 7   | CPU调度引入 Scheduling: Introduction           | [CPU-Scheduling.md](7-CPU-Scheduling/CPU-Scheduling.md)       |
+| 章   | 主题                                                | 笔记                                                                          |
+| --- | ------------------------------------------------- | --------------------------------------------------------------------------- |
+| 4   | 进程抽象 The Abstraction: The Process                 | [process.md](4-Processes/process.md)                                        |
+| 5   | 进程 API Interlude: Process API                     | [ProcessesAPI.md](5-ProcessesAPI/ProcessesAPI.md)                           |
+| 6   | 受限直接执行 Mechanism: Limited Direct Execution        | [Direct-Execution.md](6-Direct-Execution/Direct-Execution.md)               |
+| 7   | CPU调度引入 Scheduling: Introduction                  | [CPU-Scheduling.md](7-CPU-Scheduling/CPU-Scheduling.md)                     |
+| 8   | MLFQ算法 Scheduling: The Multi-Level Feedback Queue | [Multi-level-Feedback.md](./8-Multi-level-Feedback/Multi-level-Feedback.md) |
+| 9   | 份额分配调度 Scheduling: Proportional Share             | [Lottrty-Scheduling.md](./9-Lottrty-Scheduling/Lottrty-Scheduling.md)🚧     |
 
 🚧 表示这篇还没写完，会在原文件上接着补，不另开新文件。
 
