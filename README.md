@@ -6,6 +6,8 @@
 
 笔记体现的是我自己的思考方式，并且说法和结论不一定全对，仅供参考。
 
+有C语言基础读这本书会好一些。
+
 ## 目录
 
 | 章   | 主题                                                | 笔记                                                                          |
@@ -15,7 +17,9 @@
 | 6   | 受限直接执行 Mechanism: Limited Direct Execution        | [Direct-Execution.md](6-Direct-Execution/Direct-Execution.md)               |
 | 7   | CPU调度引入 Scheduling: Introduction                  | [CPU-Scheduling.md](7-CPU-Scheduling/CPU-Scheduling.md)                     |
 | 8   | MLFQ算法 Scheduling: The Multi-Level Feedback Queue | [Multi-level-Feedback.md](./8-Multi-level-Feedback/Multi-level-Feedback.md) |
-| 9   | 份额分配调度 Scheduling: Proportional Share             | [Lottrty-Scheduling.md](./9-Lottrty-Scheduling/Lottrty-Scheduling.md)🚧     |
+| 9   | 份额分配调度 Scheduling: Proportional Share             | [Lottrty-Scheduling.md](./9-Lottrty-Scheduling/Lottrty-Scheduling.md)       |
+| 13  | 地址空间 The Abstraction: Address Spaces              | [Address-Spaces.md](13-Address-Spaces/Address-Spaces.md)                    |
+| 14  | 内存API Interlude: Memory API                       | [Memory-API.md](14-Memory-API/Memory-API.md)                                |
 
 🚧 表示这篇还没写完，会在原文件上接着补，不另开新文件。
 
