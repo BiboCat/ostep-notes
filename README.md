@@ -21,6 +21,7 @@
 | 13  | 地址空间 The Abstraction: Address Spaces              | [Address-Spaces.md](13-Address-Spaces/Address-Spaces.md)                    |
 | 14  | 内存API Interlude: Memory API                       | [Memory-API.md](14-Memory-API/Memory-API.md)                                |
 | 15  | 地址转换 Mechanism: Address Translation               | [Address-Translation.md](./15-Address-Translation/Address-Translation.md)   |
+| 16  | 分段 Segmentation                                   | [Segmentation.md](./16-Segmentation/Segmentation.md) 🚧                     |
 
 🚧 表示这篇还没写完，会在原文件上接着补，不另开新文件。
 
