@@ -24,6 +24,7 @@
 | 16  | 分段 Segmentation                                   | [Segmentation.md](./16-Segmentation/Segmentation.md)                                                    |
 | 18  | 分页引入 Paging: Introduction                         | [Introduction-to-Paging.md](./18-Introduction-to-Paging/Introduction-to-Paging.md)                      |
 | 19  | 快速转换 (TLB) Paging: Faster Translations (TLBs)     | [Translation-Lookaside-Buffers.md](./19-Translation-Lookaside-Buffers/Translation-Lookaside-Buffers.md) |
+| 20  | 更小的页表 Paging: Smaller Tables                      | [Advanced-Page-Tables.md](./20-Advanced-Page-Tables/Advanced-Page-Tables.md)                            |
 
 🚧 表示这篇还没写完，会在原文件上接着补，不另开新文件。
 
